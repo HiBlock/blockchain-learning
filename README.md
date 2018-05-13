@@ -10,6 +10,7 @@
 
 ## 20180513
 - BoB - 以太坊实战之环境准备：[Youtube观看](https://www.youtube.com/playlist?list=PLnP6dU8KobC-QzHcbHFWIBmHwoxPqKq9p) | [CSDN观看](https://edu.csdn.net/course/detail/8078)
+- 胡键 - [Hyperledger Fabric周周记：起源](https://www.jianshu.com/p/267ac1f2d67d)
 - 笔名辉哥 -[ 【以太坊实践】第九课 如何在Remix环境下进行Solidity代码单步调试](https://www.bihu.com/article/374536)
 
 ## 进度与内容
