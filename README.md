@@ -13,6 +13,7 @@
 - 胡键 - [Hyperledger Fabric周周记：起源](https://www.jianshu.com/p/267ac1f2d67d)
 - 笔名辉哥 -[【以太坊实践】第九课 如何在Remix环境下进行Solidity代码单步调试](https://www.bihu.com/article/374536)
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
+- 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
 
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
