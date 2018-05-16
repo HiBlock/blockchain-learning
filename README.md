@@ -15,6 +15,10 @@
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
 - 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
 
+## 20180520
+ 笔名辉哥 -[第十课 Solidity语言编辑器REMIX指导大全](https://www.jianshu.com/p/2110ed61d2cc)
+
+
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
 [输出进度](https://docs.google.com/spreadsheets/d/1192TcjGNVEhPl470y5y2Z3aZ9So0Imzucxbkm5Nxvn0/edit?usp=sharing)  
