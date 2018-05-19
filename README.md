@@ -8,6 +8,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180520
+- 笔名辉哥 -[第十课 Solidity语言编辑器REMIX指导大全](https://www.jianshu.com/p/2110ed61d2cc)
+- BoB [Smart contract traveller guide](./smart-contract-traveller-guides.md)
+
 ## 20180513
 - BoB - 以太坊实战之环境准备：[Youtube观看](https://www.youtube.com/playlist?list=PLnP6dU8KobC-QzHcbHFWIBmHwoxPqKq9p) | [CSDN观看](https://edu.csdn.net/course/detail/8078)
 - 胡键 - [Hyperledger Fabric周周记：起源](https://www.jianshu.com/p/267ac1f2d67d)
