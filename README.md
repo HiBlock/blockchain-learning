@@ -14,6 +14,7 @@
 - BoB [Smart contract traveller guide](./smart-contract-traveller-guides.md)
 - 冯宇 [Hyperledger Fabric模型和工具介绍](https://www.jianshu.com/p/dbca08046432)
 - 倔强的小红军 [CryptoZombies游戏学习Solidity笔记](./CryptoZombies游戏学习Solidity笔记.md)
+- 胡键 [Hyperledger Fabric周周记：Composer](https://www.jianshu.com/p/9ff2cca70981)
 
 ## 20180513
 - BoB - 以太坊实战之环境准备：[Youtube观看](https://www.youtube.com/playlist?list=PLnP6dU8KobC-QzHcbHFWIBmHwoxPqKq9p) | [CSDN观看](https://edu.csdn.net/course/detail/8078)
