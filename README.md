@@ -11,6 +11,9 @@
 ## 20180513
 - BoB - 以太坊实战之环境准备：[Youtube观看](https://www.youtube.com/playlist?list=PLnP6dU8KobC-QzHcbHFWIBmHwoxPqKq9p) | [CSDN观看](https://edu.csdn.net/course/detail/8078)
 
+## 20180525
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
+
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
 [输出进度](https://docs.google.com/spreadsheets/d/1192TcjGNVEhPl470y5y2Z3aZ9So0Imzucxbkm5Nxvn0/edit?usp=sharing)  
