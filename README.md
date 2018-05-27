@@ -10,6 +10,7 @@
 
 ## 20180527
 - 胡键 [HyperLedger Fabric快速入门视频](https://m.qlchat.com/topic/details?topicId=2000001352286793)
+- 冯宇 [Hyperledger Fabric网络手工运行](https://www.jianshu.com/p/9b6265ee6f4a)
 
 ## 20180520
 - 阿东 - [区块链走向何方，或许从美国证劵史可以得到答案](https://github.com/cdtakumi/HiBlock-learning/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9%EF%BC%8C%E6%88%96%E8%AE%B8%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%8A%B5%E5%8F%B2%E5%8F%AF%E4%BB%A5%E5%BE%97%E5%88%B0%E7%AD%94%E6%A1%88)
