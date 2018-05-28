@@ -19,6 +19,9 @@
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
 - 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
 
+## 20180525
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
+
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
 [输出进度](https://docs.google.com/spreadsheets/d/1192TcjGNVEhPl470y5y2Z3aZ9So0Imzucxbkm5Nxvn0/edit?usp=sharing)  
