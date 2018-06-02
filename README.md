@@ -8,6 +8,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180602
+- AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
+
+
 ## 20180527
 - 胡键 [HyperLedger Fabric快速入门视频](https://m.qlchat.com/topic/details?topicId=2000001352286793)
 - 冯宇 [Hyperledger Fabric网络手工运行](https://www.jianshu.com/p/9b6265ee6f4a)
