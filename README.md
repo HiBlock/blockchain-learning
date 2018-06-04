@@ -13,6 +13,7 @@
 - AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
 - 冯宇 [Linux环境下安装和使用Hyperledger Composer](https://www.jianshu.com/p/f20e3046c2a1)
 - 胡键 [Hyperledger Fabric周周记：权限](https://www.jianshu.com/p/c502db96db15)
+- 阿飞 [区块链-以太坊学习笔记（三）](https://blog.csdn.net/lxfgzm/article/details/80575346)
 - BoB [以太坊入门ppt](https://github.com/HiBlock/blockchain-learning/blob/develop/blockchain2.0-ethereum-introduction.pptx)
 
 ## 20180527
