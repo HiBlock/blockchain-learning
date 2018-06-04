@@ -10,6 +10,7 @@
 
 ## 20180602
 - AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
+- 胡键 [Hyperledger Fabric周周记：权限](https://www.jianshu.com/p/c502db96db15)
 
 
 ## 20180527
