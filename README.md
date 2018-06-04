@@ -11,6 +11,7 @@
 ## 20180602
 - AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
 - 冯宇 [Linux环境下安装和使用Hyperledger Composer](https://www.jianshu.com/p/f20e3046c2a1)
+- 胡键 [Hyperledger Fabric周周记：权限](https://www.jianshu.com/p/c502db96db15)
 
 ## 20180527
 - 胡键 [HyperLedger Fabric快速入门视频](https://m.qlchat.com/topic/details?topicId=2000001352286793)
