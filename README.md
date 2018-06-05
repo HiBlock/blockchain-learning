@@ -15,6 +15,7 @@
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
 ## 20180602
+- 笔名辉哥 - [第十三课 如何在DAPP应用实现自带钱包转账功能](https://www.jianshu.com/p/139a71c0c497)
 - 阿东 [怎样拥有硬件钱包？币博士手把手教你！](https://mp.weixin.qq.com/s/PFJDFqq4xQnhnhriORoisw)
 - AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
 - 冯宇 [Linux环境下安装和使用Hyperledger Composer](https://www.jianshu.com/p/f20e3046c2a1)
