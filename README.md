@@ -3,14 +3,29 @@
 ## 目标
 目标：以输出的方式来加速学习  
 
+## 加入我们
+- 抱团学习，一起学习共同输出，相互鼓励与扶持。
+- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
+- 联系方式：bob@hiblock.net  
+- 微信：hiblocknet
+
 ## 输出形式
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
-## 20180602
-- AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
+## 20180609
+- BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
+- AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
 
+## 20180602
+- 笔名辉哥 - [第十三课 如何在DAPP应用实现自带钱包转账功能](https://www.jianshu.com/p/139a71c0c497)
+- 阿东 [怎样拥有硬件钱包？币博士手把手教你！](https://mp.weixin.qq.com/s/PFJDFqq4xQnhnhriORoisw)
+- AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
+- 冯宇 [Linux环境下安装和使用Hyperledger Composer](https://www.jianshu.com/p/f20e3046c2a1)
+- 胡键 [Hyperledger Fabric周周记：权限](https://www.jianshu.com/p/c502db96db15)
+- 阿飞 [区块链-以太坊学习笔记（三）](https://blog.csdn.net/lxfgzm/article/details/80575346)
+- BoB [以太坊入门ppt](https://github.com/HiBlock/blockchain-learning/blob/develop/blockchain2.0-ethereum-introduction.pptx)
 
 ## 20180527
 - 胡键 [HyperLedger Fabric快速入门视频](https://m.qlchat.com/topic/details?topicId=2000001352286793)
@@ -40,7 +55,3 @@
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
 [输出进度](https://docs.google.com/spreadsheets/d/1192TcjGNVEhPl470y5y2Z3aZ9So0Imzucxbkm5Nxvn0/edit?usp=sharing)  
 
-## 社区需要你  
-- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net  
-- 微信：hiblocknet
