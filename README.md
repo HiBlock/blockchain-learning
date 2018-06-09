@@ -16,6 +16,7 @@
 
 ## 20180609
 - BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
+- AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
 
 ## 20180602
 - 笔名辉哥 - [第十三课 如何在DAPP应用实现自带钱包转账功能](https://www.jianshu.com/p/139a71c0c497)
