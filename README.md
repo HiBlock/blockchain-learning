@@ -19,6 +19,7 @@
 - AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
 - 阿飞 [区块链-以太坊学习笔记（四）](https://blog.csdn.net/lxfgzm/article/details/80646578)
 - 冯宇 [Hyperledger Composer概念介绍](https://www.jianshu.com/p/ebb5f25bd3f7)
+- 笔名辉哥[第十四课 以太坊开发从入门到精通学习导航](https://www.jianshu.com/p/6851fb958220)
 
 ## 20180602
 - 笔名辉哥 - [第十三课 如何在DAPP应用实现自带钱包转账功能](https://www.jianshu.com/p/139a71c0c497)
