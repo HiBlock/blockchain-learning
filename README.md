@@ -17,6 +17,7 @@
 ## 20180609
 - BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
 - AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
+- 阿飞 [区块链-以太坊学习笔记（四）](https://blog.csdn.net/lxfgzm/article/details/80646578)
 - 冯宇 [Hyperledger Composer概念介绍](https://www.jianshu.com/p/ebb5f25bd3f7)
 
 ## 20180602
