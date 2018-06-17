@@ -14,6 +14,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+
+## 20180616
+- AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
+
 ## 20180609
 - BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
 - AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
