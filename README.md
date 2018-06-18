@@ -17,6 +17,7 @@
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
+- 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
 - 冯宇 [Hyperledger Composer开发流程](https://www.jianshu.com/p/43000b5ebd3d)
 
 ## 20180609
