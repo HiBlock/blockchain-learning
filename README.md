@@ -17,6 +17,7 @@
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
+- 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
 
 ## 20180609
 - BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
