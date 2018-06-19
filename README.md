@@ -3,17 +3,17 @@
 ## 目标
 目标：以输出的方式来加速学习  
 
+- [以太坊的学习笔记](https://github.com/etherchina/ethereum)
+
 ## 加入我们
 - 抱团学习，一起学习共同输出，相互鼓励与扶持。
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net  
-- 微信：hiblocknet
+- 联系方式：bob@hiblock.net  、 微信：hiblocknet
 
 ## 输出形式
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
-
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
