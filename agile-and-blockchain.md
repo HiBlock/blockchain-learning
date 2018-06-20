@@ -10,20 +10,18 @@ In the beginning, let's start from the history to understand how they come.
 
 In 2001, there are 17 software pioneers gathering in snowbird to discuss the light software development methods. Finally they conclude Agile Manifesto with agile principles as well. More details, see also [Agile Manifesto](http://agilemanifesto.org/).
 
-> We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
-
-> Individuals and interactions over processes and tools  
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
-
-> That is, while there is value in the items on the right, we value the items on the left more.
+> We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
+Individuals and interactions over processes and tools  
+Working software over comprehensive documentation  
+Customer collaboration over contract negotiation  
+Responding to change over following a plan  
+That is, while there is value in the items on the right, we value the items on the left more.
 
 ### what is blockchain
 
-todo: blockchain definition from whitepaper.
+> A blockchain,[1][2][3] originally block chain,[4][5] is a continuously growing list of records, called blocks, which are linked and secured using cryptography.[1][6] Each block typically contains a cryptographic hash of the previous block,[6] a timestamp, and transaction data.[7] By design, a blockchain is resistant to modification of the data. It is "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way".[8] For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for inter-node communication and validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without alteration of all subsequent blocks, which requires consensus of the network majority. -- [Definition from wikipedia](https://en.wikipedia.org/wiki/Blockchain)
 
-In 2008, a person (not sure whether a man or woman, still secret now) published a whitepaper named *BitCoin, a digital currency from peer to peer*. todo: correct name
+In 2008, a person (not sure whether a man or woman, still secret now) published a whitepaper named *BitCoin: A peer-to-peer electronic cash system*.
 
 Blockchain technology is mentioned for the first time there. And as we know, the whitepaper is delivered in cryptopunker maillist first.
 
@@ -43,14 +41,12 @@ Agile as an experimental process is based on 3 pillars:
 - inspect
 - adapt
 
-todo: add a pic here
-
 For example, in agile, information radiator is well used in many teams, in order to visualize and make it transparent. So that it increases trust. ( I see, then I believe )
 
-Blockchain's key charactoristics is 防篡改, which based on :
+Blockchain's key charactoristics is Tamper-proof, which based on :
 
 - only add, no edit or delete
-- public transaction information 
+- public transaction information (each transaction recorded on chain, and could be queried) 
 
 So for agile and blockchain, both are transparent, agile intends to visualize information, and blockchain intends to make transaction (core of blockchain) public.
 
@@ -94,6 +90,8 @@ But for blockchain, it is community based from the scatch. Maybe just a few peop
 
 In the future, there are at least 2 kinds of organizations, company based and community based. And there would be more and more community based organization arises.
 
+
+## HiBlock community
 
 Last, but not least, [hiblock community](https://hiblock.one) focuses on blockchain technology, could provide services like technology training, consulting, smart contract auditing, organizing hackthon etc.
 
