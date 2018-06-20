@@ -15,6 +15,9 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180623
+- BoB [Agile and Blockchain](./agile-and-blockchain.md)
+
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
 - 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
