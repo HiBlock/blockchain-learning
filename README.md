@@ -18,12 +18,14 @@
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
 - AmyWu [Hyperledger Fabric实践（1） 组建最简网络](https://www.jianshu.com/p/1b83cb9d9aa9)
+- 阿飞 [区块链-以太坊学习笔记（六）](https://blog.csdn.net/lxfgzm/article/details/80796459)
 - 胡键 HiBlock西安23号活动图文：[区块链周周记：兵器谱](https://www.jianshu.com/p/a10052a5bbd4)
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
 - 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
 - 冯宇 [Hyperledger Composer开发流程](https://www.jianshu.com/p/43000b5ebd3d)
+- 阿飞 [区块链-以太坊学习笔记（五）](https://blog.csdn.net/lxfgzm/article/details/80796382)
 - 胡键 [区块链周周记：Token](https://www.jianshu.com/p/1a1c449f848c)
 - BoB [ERC20 中文版](https://github.com/bobjiang/EIPs/blob/master/EIPS-CN/eip-20.md)
 
