@@ -18,6 +18,7 @@
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
 - AmyWu [Hyperledger Fabric实践（1） 组建最简网络](https://www.jianshu.com/p/1b83cb9d9aa9)
+- 胡键 HiBlock西安23号活动图文：[区块链周周记：兵器谱](https://www.jianshu.com/p/a10052a5bbd4)
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
