@@ -8,7 +8,7 @@
 ## 加入我们
 - 抱团学习，一起学习共同输出，相互鼓励与扶持。
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net  、 微信：hiblocknet
+- 联系方式：bob@hiblock.net  、 微信：hiblocknet  
 
 ## 输出形式
 输出形式多样：  
@@ -21,6 +21,7 @@
 - 阿飞 [区块链-以太坊学习笔记（六）](https://blog.csdn.net/lxfgzm/article/details/80796459)
 - 胡键 HiBlock西安23号活动图文：[区块链周周记：兵器谱](https://www.jianshu.com/p/a10052a5bbd4)
 - 冯宇：[Hyperledger学习小结](https://www.jianshu.com/p/8294e7f441d1)
+- 笔名辉哥：[第十五课 手把手教你以太坊ENS域名注册，抢做一个3000万的发财梦！](https://www.jianshu.com/p/d4b951ff21b1)
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
