@@ -18,6 +18,7 @@
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
 - 笔名辉哥 [第4课 如何在UBUNTU虚拟机上编译EOS完成环境搭建？](https://www.jianshu.com/p/55cd194eff7a)
+- 胡键 [以太坊开发极简入门](https://www.jianshu.com/p/bec173e6cf73)
 
 
 ## 20180623
