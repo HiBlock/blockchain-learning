@@ -19,7 +19,9 @@
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
 - 笔名辉哥 [第4课 如何在UBUNTU虚拟机上编译EOS完成环境搭建？](https://www.jianshu.com/p/55cd194eff7a)
 - AmyWu [Hyperledger Fabric实践（2) 部署Hyperledger Composer理论](https://www.jianshu.com/p/4f3c5dbc5f67)
-
+- 胡键 [以太坊开发极简入门](https://www.jianshu.com/p/bec173e6cf73)
+- 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
+- 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
 
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
