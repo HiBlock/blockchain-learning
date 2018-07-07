@@ -15,6 +15,9 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180707
+- AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
+
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
 - 笔名辉哥 [第4课 如何在UBUNTU虚拟机上编译EOS完成环境搭建？](https://www.jianshu.com/p/55cd194eff7a)
