@@ -17,6 +17,7 @@
 
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
+- 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
 
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
