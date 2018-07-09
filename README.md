@@ -19,6 +19,7 @@
 - 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
 - BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 - 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
+- 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
 - 笔名辉哥 [第5课 EOS环境搭建入门（私链节点-钱包-密钥-账号）](https://www.jianshu.com/p/533f849489b1)
 
 ## 20180630
@@ -29,6 +30,7 @@
 - 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
 - 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
 - 王文刚 [简单谈谈区块链的事情](https://www.jianshu.com/p/c3120d546672)
+- 冯学雷 [搭建以太坊客户端](https://www.jianshu.com/p/bf23baf3e358)
 
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
