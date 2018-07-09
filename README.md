@@ -3,8 +3,6 @@
 ## 目标
 目标：以输出的方式来加速学习  
 
-- [以太坊的学习笔记](https://github.com/etherchina/ethereum)
-
 ## 加入我们
 - 抱团学习，一起学习共同输出，相互鼓励与扶持。
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
@@ -19,6 +17,7 @@
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
 - 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
 - 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
+- BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
