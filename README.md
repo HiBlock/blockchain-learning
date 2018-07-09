@@ -8,21 +8,39 @@
 ## 加入我们
 - 抱团学习，一起学习共同输出，相互鼓励与扶持。
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net  、 微信：hiblocknet
+- 联系方式：bob@hiblock.net  、 微信：hiblocknet  
 
 ## 输出形式
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180707
+- AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
+- 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
+- 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
+
+## 20180630
+- BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
+- 笔名辉哥 [第4课 如何在UBUNTU虚拟机上编译EOS完成环境搭建？](https://www.jianshu.com/p/55cd194eff7a)
+- AmyWu [Hyperledger Fabric实践（2) 部署Hyperledger Composer理论](https://www.jianshu.com/p/4f3c5dbc5f67)
+- 胡键 [以太坊开发极简入门](https://www.jianshu.com/p/bec173e6cf73)
+- 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
+- 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
+
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
 - AmyWu [Hyperledger Fabric实践（1） 组建最简网络](https://www.jianshu.com/p/1b83cb9d9aa9)
+- 阿飞 [区块链-以太坊学习笔记（六）](https://blog.csdn.net/lxfgzm/article/details/80796459)
+- 胡键 HiBlock西安23号活动图文：[区块链周周记：兵器谱](https://www.jianshu.com/p/a10052a5bbd4)
+- 冯宇：[Hyperledger学习小结](https://www.jianshu.com/p/8294e7f441d1)
+- 笔名辉哥：[第十五课 手把手教你以太坊ENS域名注册，抢做一个3000万的发财梦！](https://www.jianshu.com/p/d4b951ff21b1)
 
 ## 20180616
 - AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
 - 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
 - 冯宇 [Hyperledger Composer开发流程](https://www.jianshu.com/p/43000b5ebd3d)
+- 阿飞 [区块链-以太坊学习笔记（五）](https://blog.csdn.net/lxfgzm/article/details/80796382)
 - 胡键 [区块链周周记：Token](https://www.jianshu.com/p/1a1c449f848c)
 - BoB [ERC20 中文版](https://github.com/bobjiang/EIPs/blob/master/EIPS-CN/eip-20.md)
 
