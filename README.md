@@ -29,6 +29,7 @@
 - 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
 - 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
 - 王文刚 [简单谈谈区块链的事情](https://www.jianshu.com/p/c3120d546672)
+- 冯学雷 [搭建以太坊客户端](https://www.jianshu.com/p/bf23baf3e358)
 
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
