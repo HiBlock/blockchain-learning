@@ -19,6 +19,7 @@
 - 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
 - BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 - 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
+- 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
 
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
