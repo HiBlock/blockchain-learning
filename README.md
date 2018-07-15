@@ -13,6 +13,9 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180714
+- 冯宇[搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
+
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
 - 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
