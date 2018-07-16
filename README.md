@@ -13,6 +13,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180714
+- 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
+
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
 - 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
