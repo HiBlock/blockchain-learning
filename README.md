@@ -15,6 +15,7 @@
 
 ## 20180714
 - 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
 - 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
 
 ## 20180707
@@ -24,6 +25,7 @@
 - BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 - 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
 - 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
+- 阿飞 [区块链-以太坊学习笔记（八）](https://blog.csdn.net/lxfgzm/article/details/80980392)
 - 笔名辉哥 [第5课 EOS环境搭建入门（私链节点-钱包-密钥-账号）](https://www.jianshu.com/p/533f849489b1)
 
 ## 20180630
