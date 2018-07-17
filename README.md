@@ -18,8 +18,8 @@
 - 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
 - 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
 - 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
+- 冯学雷 [股票交易和数字货币交易对比](https://www.jianshu.com/p/312c15e11938)
 - AmyWu [关于dApp的问与答](https://www.jianshu.com/p/25409b86da70)
-- 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
 
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
@@ -97,6 +97,9 @@
 - 笔名辉哥 -[【以太坊实践】第九课 如何在Remix环境下进行Solidity代码单步调试](https://www.bihu.com/article/374536)
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
 - 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
+
+## 20180525
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
 
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
