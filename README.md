@@ -14,7 +14,7 @@
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
 ## 20180721
-- 王文刚 [智能合约内容分享](https://www.jianshu.com/p/904aaae80320)
+- 王文刚 [智能合约内容分享.ppt](https://github.com/xifarm/blockchain-learning/blob/HiBlock-develop/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB.pptx)
 
 ## 20180714
 - 冯宇[搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
