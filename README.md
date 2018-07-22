@@ -13,8 +13,16 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180721
+- 王文刚 [智能合约内容分享](https://www.jianshu.com/p/904aaae80320)
+
 ## 20180714
+- 冯宇[搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
 - 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
+- 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
+- 冯学雷 [股票交易和数字货币交易对比](https://www.jianshu.com/p/312c15e11938)
+- AmyWu [关于dApp的问与答](https://www.jianshu.com/p/25409b86da70)
 
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
@@ -22,6 +30,9 @@
 - 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
 - BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 - 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
+- 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
+- 阿飞 [区块链-以太坊学习笔记（八）](https://blog.csdn.net/lxfgzm/article/details/80980392)
+- 笔名辉哥 [第5课 EOS环境搭建入门（私链节点-钱包-密钥-账号）](https://www.jianshu.com/p/533f849489b1)
 
 ## 20180630
 - BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
@@ -31,6 +42,7 @@
 - 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
 - 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
 - 王文刚 [简单谈谈区块链的事情](https://www.jianshu.com/p/c3120d546672)
+- 冯学雷 [搭建以太坊客户端](https://www.jianshu.com/p/bf23baf3e358)
 
 ## 20180623
 - BoB [Agile and Blockchain](./agile-and-blockchain.md)
@@ -88,6 +100,9 @@
 - 笔名辉哥 -[【以太坊实践】第九课 如何在Remix环境下进行Solidity代码单步调试](https://www.bihu.com/article/374536)
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
 - 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
+
+## 20180525
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
 
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
