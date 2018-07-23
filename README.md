@@ -15,9 +15,10 @@
 
 ## 20180721
 - 王文刚 [智能合约内容分享.ppt](https://github.com/xifarm/blockchain-learning/blob/HiBlock-develop/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB.pptx)
+- 冯宇 [从开发者的角度快速解读以太坊白皮书](https://www.jianshu.com/p/41ae276ae65e)
 
 ## 20180714
-- 冯宇[搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
+- 冯宇 [搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
 - 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
 - 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
 - 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
