@@ -13,9 +13,22 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180728
+- 胡键 [OpenZeppelin周记：打开地图](https://www.jianshu.com/p/3d09bbafd8f2)
+
+## 20180721
+- AmyWu [如何使用Docker快速启动EOSIO环境](https://www.jianshu.com/p/7ea632fe1499)
+- 王文刚 [智能合约内容分享.ppt](https://github.com/xifarm/blockchain-learning/blob/HiBlock-develop/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB.pptx)
+- 冯宇 [从开发者的角度快速解读以太坊白皮书](https://www.jianshu.com/p/41ae276ae65e)
+- BoB [如何发布和使用ERC875代币](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-nfts-cn.md)
+
 ## 20180714
-- 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚  ](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 冯宇 [搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
+- 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
 - 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
+- 冯学雷 [股票交易和数字货币交易对比](https://www.jianshu.com/p/312c15e11938)
+- AmyWu [关于dApp的问与答](https://www.jianshu.com/p/25409b86da70)
 
 ## 20180707
 - AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
@@ -24,6 +37,7 @@
 - BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
 - 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
 - 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
+- 阿飞 [区块链-以太坊学习笔记（八）](https://blog.csdn.net/lxfgzm/article/details/80980392)
 - 笔名辉哥 [第5课 EOS环境搭建入门（私链节点-钱包-密钥-账号）](https://www.jianshu.com/p/533f849489b1)
 
 ## 20180630
@@ -92,6 +106,9 @@
 - 笔名辉哥 -[【以太坊实践】第九课 如何在Remix环境下进行Solidity代码单步调试](https://www.bihu.com/article/374536)
 - 冯宇 - [Linux环境下搭建Hyperledger Fabric 1.1开发环境](https://www.jianshu.com/p/749c16a32097)
 - 三万分之一 - [合约](https://github.com/HiBlock/blockchain-learning/blob/master/contracts.rst)
+
+## 20180525
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
 
 ## 进度与内容
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
