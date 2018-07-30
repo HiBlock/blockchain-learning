@@ -18,6 +18,7 @@
 
 ## 20180728
 - AmyWu [Hyperledger Fabric的一次交易的旅程](https://www.jianshu.com/p/a5dc83988dbc)
+- 胡键 [OpenZeppelin周记：打开地图](https://www.jianshu.com/p/3d09bbafd8f2)
 
 
 ## 20180721
