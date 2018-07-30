@@ -19,7 +19,7 @@
 ## 20180728
 - AmyWu [Hyperledger Fabric的一次交易的旅程](https://www.jianshu.com/p/a5dc83988dbc)
 - 胡键 [OpenZeppelin周记：打开地图](https://www.jianshu.com/p/3d09bbafd8f2)
-
+- 冯宇 [理解ERC20代币合约](https://www.jianshu.com/p/c6c0256124fe)
 
 ## 20180721
 - AmyWu [如何使用Docker快速启动EOSIO环境](https://www.jianshu.com/p/7ea632fe1499)
