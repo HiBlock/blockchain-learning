@@ -15,6 +15,7 @@
 
 ## 20180804
 - AmyWu [搭建你的第一个以太坊智能合约 （1）](https://www.jianshu.com/p/f96a518c46e8)
+- 胡键 [区块链周周记：共识算法](https://www.jianshu.com/p/9ce900fb6f91)
 
 ## 20180728
 - AmyWu [Hyperledger Fabric的一次交易的旅程](https://www.jianshu.com/p/a5dc83988dbc)
