@@ -18,6 +18,7 @@
 - 胡键 [区块链周周记：共识算法](https://www.jianshu.com/p/9ce900fb6f91)
 - 王文刚 [区块链白皮书分享.ppt](https://github.com/xifarm/blockchain-learning/blob/develop/20180803%20%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%88%86%E4%BA%AB.ppt)
 - 冯宇 [ERC20代币合约开发相关函数和事件](https://www.jianshu.com/p/a3a197ce9268)
+- BoB [Upgradable smart contracts](./upgradable-smart-contract-step-by-step.md)
 
 ## 20180728
 - AmyWu [Hyperledger Fabric的一次交易的旅程](https://www.jianshu.com/p/a5dc83988dbc)
