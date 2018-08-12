@@ -13,6 +13,9 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180811
+- 冯宇 [Hyperledger Cello简介](https://www.jianshu.com/p/afdf62088fe1)
+
 ## 20180804
 - AmyWu [搭建你的第一个以太坊智能合约 （1）](https://www.jianshu.com/p/f96a518c46e8)
 - 胡键 [区块链周周记：共识算法](https://www.jianshu.com/p/9ce900fb6f91)
