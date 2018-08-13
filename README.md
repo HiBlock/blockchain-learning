@@ -15,6 +15,8 @@
 
 ## 20180811
 - AmyWu [通过僵尸小游戏学习Ethereum DApps编程（1）](https://www.jianshu.com/p/f9e6d2d907bd)
+- 冯宇 [Hyperledger Cello简介](https://www.jianshu.com/p/afdf62088fe1)
+
 
 ## 20180804
 - AmyWu [搭建你的第一个以太坊智能合约 （1）](https://www.jianshu.com/p/f96a518c46e8)
