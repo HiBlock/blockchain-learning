@@ -13,6 +13,9 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180901
+- AmyWu [通过小游戏学习Ethereum DApps编程（4）](https://www.jianshu.com/p/ed9857d616f5)
+
 ## 20180825
 - AmyWu [通过小游戏学习Ethereum DApps编程（3）](https://www.jianshu.com/p/c9300c8f285a)
 
