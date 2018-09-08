@@ -13,6 +13,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180908
+- 笔名辉哥 [第二十三课 如何部署TRUFFLE智能合约到以太坊主网(以宠物商店为例)](https://www.jianshu.com/p/d02381201033)
+- AmyWu [通过小游戏学习Ethereum DApps编程（5）](https://www.jianshu.com/p/e5ed2d26587d)
+
 ## 20180901
 - AmyWu [通过小游戏学习Ethereum DApps编程（4）](https://www.jianshu.com/p/ed9857d616f5)
 
