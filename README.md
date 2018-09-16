@@ -14,7 +14,7 @@
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
 ## 20180916
-- OliviaZhang [<new version> TruffleDapp_Metacoin)](https://www.jianshu.com/p/6af41265a37b)
+- OliviaZhang [<new version> TruffleDapp_Metacoin](https://www.jianshu.com/p/6af41265a37b)
  
 
 ## 20180908
