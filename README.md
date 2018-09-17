@@ -15,6 +15,9 @@
 
 ## 20180916
 - OliviaZhang [<new version> TruffleDapp_Metacoin](https://www.jianshu.com/p/6af41265a37b)
+- 笔名辉哥 [【白皮书】Bancor协议：通过智能合约为加密货币提供持续流动性(附PDF下载)](https://www.jianshu.com/p/cbfb9abf8e07)
+- 笔名辉哥 [【易错概念】以实例形式深入浅出讲透BANCOR算法](https://www.jianshu.com/p/fe48ed1f38cd)
+- AmyWu [通过小游戏学习Ethereum DApps编程（6）](https://www.jianshu.com/p/3ef0914daba9)
  
 
 ## 20180908
