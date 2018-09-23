@@ -12,6 +12,8 @@
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
+## 20180923
+- OliviaZhang [How to build your ERC20 token and launch an ICO](https://www.jianshu.com/p/5433ef1aeb34)
 
 ## 20180916
 - OliviaZhang [<new version> TruffleDapp_Metacoin](https://www.jianshu.com/p/6af41265a37b)
