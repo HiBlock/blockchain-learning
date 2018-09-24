@@ -12,8 +12,15 @@
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
+
 ## 20180923
 - OliviaZhang [How to build your ERC20 token and launch an ICO](https://www.jianshu.com/p/5433ef1aeb34)
+- 笔名辉哥 [第二十四课 基于以太坊的交易所BANCOR算法实现-转换算法框架](https://www.jianshu.com/p/875ba83002dc)
+- 笔名辉哥 [【ERC1155实践】区块链游戏的平行宇宙和为此而生的Enjin钱包](https://www.jianshu.com/p/d558acbc8f65)
+- 笔名辉哥 [【易错概念】Solidity语法的重载，继承的定义](https://www.jianshu.com/p/231ba1048ef5)
+- 笔名辉哥 [【易错概念】Solidity语法的合约/抽象合约/接口/库的定义](https://www.jianshu.com/p/aa18346369cd)
+- 笔名辉哥 [【易错概念】Solidity语法constant/view/pure关键字定义](https://www.jianshu.com/p/5f1bc0d39d79)
+- AmyWu [通过小游戏学习Ethereum DApps编程（7）](https://www.jianshu.com/p/e0912339e842)
 
 ## 20180916
 - OliviaZhang [<new version> TruffleDapp_Metacoin](https://www.jianshu.com/p/6af41265a37b)
