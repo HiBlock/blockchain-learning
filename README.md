@@ -13,6 +13,19 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20180930
+- 笔名辉哥 [【区块链实践】区块链+数字版权：“权利”的游戏](https://www.jianshu.com/p/411fcc5623fa)
+- 笔名辉哥 [叶开：内容创作、知识版权、艺术品的Token内容模式](https://www.jianshu.com/p/90f35357e9e0)
+- 笔名辉哥 [Fomo玩法加持的PixelMaster为什么火了?](https://www.jianshu.com/p/4aaeea70b4ce)
+- 笔名辉哥 [【分析】比特大陆招股说明书解读[附pdf下载]](https://www.jianshu.com/p/c35847068075)
+- 笔名辉哥 [【深度知识】以太坊第2层扩容方案：状态通道（State Channels）、Plasma 和 Truebit](https://www.jianshu.com/p/9b63bd712be8)
+- 笔名辉哥 [【区块链实践】杭州互联网法院司法区块链解决方案](https://www.jianshu.com/p/ee1e3290338f)
+- 笔名辉哥 [这30个以太坊开发示例，让你成为80万都挖不走的区块链人才！](https://www.jianshu.com/p/f5d557c62a66)
+- AmyWu [通过小游戏学习Ethereum DApps编程（8）](https://www.jianshu.com/p/0fae5ff82ae4)
+- AmyWu [精通以太坊 摘录+笔记（1）](https://www.jianshu.com/p/8777dc7ac064)
+- AmyWu [精通比特币 摘录+笔记（1）](https://www.jianshu.com/p/c47013e62fff)
+
+
 ## 20180923
 - OliviaZhang [How to build your ERC20 token and launch an ICO](https://www.jianshu.com/p/5433ef1aeb34)
 - 笔名辉哥 [第二十四课 基于以太坊的交易所BANCOR算法实现-转换算法框架](https://www.jianshu.com/p/875ba83002dc)
