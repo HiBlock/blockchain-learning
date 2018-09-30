@@ -13,6 +13,11 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+
+## 20180930
+- OliviaZhang [Back to Basic On Smart Contract](https://www.jianshu.com/p/0ac8132d3312)
+
+
 ## 20180923
 - OliviaZhang [How to build your ERC20 token and launch an ICO](https://www.jianshu.com/p/5433ef1aeb34)
 - 笔名辉哥 [第二十四课 基于以太坊的交易所BANCOR算法实现-转换算法框架](https://www.jianshu.com/p/875ba83002dc)
