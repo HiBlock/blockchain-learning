@@ -14,6 +14,7 @@
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
 ## 20180930
+- OliviaZhang [Back to Basic On Smart Contract](https://www.jianshu.com/p/0ac8132d3312)
 - 笔名辉哥 [【区块链实践】区块链+数字版权：“权利”的游戏](https://www.jianshu.com/p/411fcc5623fa)
 - 笔名辉哥 [叶开：内容创作、知识版权、艺术品的Token内容模式](https://www.jianshu.com/p/90f35357e9e0)
 - 笔名辉哥 [Fomo玩法加持的PixelMaster为什么火了?](https://www.jianshu.com/p/4aaeea70b4ce)
