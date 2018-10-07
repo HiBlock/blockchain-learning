@@ -13,6 +13,12 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181007
+- 笔名辉哥 [第二十五课 如何开发自己的BANCOR去中心化交易平台？](https://www.jianshu.com/p/9fc78f8f5773)
+- 笔名辉哥 [【ERC1400标准】支持证券增发，交易，相关法律文件存储的证券类同质化通证](https://www.jianshu.com/p/1e300a73eeef)
+- 笔名辉哥 [肖风：未来三到五年内，一个去中心化的分布式AI平台或将出现](https://www.jianshu.com/p/a6ce20b61400)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（1）](https://www.jianshu.com/p/8a396d2a92c1)
+
 ## 20180930
 - OliviaZhang [Back to Basic On Smart Contract](https://www.jianshu.com/p/0ac8132d3312)
 - 笔名辉哥 [【区块链实践】区块链+数字版权：“权利”的游戏](https://www.jianshu.com/p/411fcc5623fa)
