@@ -19,6 +19,7 @@
 - AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（2）](https://www.jianshu.com/p/a6706b5bf7ff)
 
 ## 20181007
+- OliviaZhang [Cryptozombie part 1](https://www.jianshu.com/p/4a66db75f3b0)
 - 笔名辉哥 [第二十五课 如何开发自己的BANCOR去中心化交易平台？](https://www.jianshu.com/p/9fc78f8f5773)
 - 笔名辉哥 [【ERC1400标准】支持证券增发，交易，相关法律文件存储的证券类同质化通证](https://www.jianshu.com/p/1e300a73eeef)
 - 笔名辉哥 [肖风：未来三到五年内，一个去中心化的分布式AI平台或将出现](https://www.jianshu.com/p/a6ce20b61400)
