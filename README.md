@@ -13,6 +13,11 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181014
+- 笔名辉哥 [第二十七课 如何从BANCOR交易所兑换ENJIN通证](https://www.jianshu.com/p/617103393dc6)
+- 笔名辉哥 [第二十六课 如何从零开始搭建一个Truffle框架的DAPP应用](https://www.jianshu.com/p/ecaa4dc22bef)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（2）](https://www.jianshu.com/p/a6706b5bf7ff)
+
 ## 20181007
 - 笔名辉哥 [第二十五课 如何开发自己的BANCOR去中心化交易平台？](https://www.jianshu.com/p/9fc78f8f5773)
 - 笔名辉哥 [【ERC1400标准】支持证券增发，交易，相关法律文件存储的证券类同质化通证](https://www.jianshu.com/p/1e300a73eeef)
