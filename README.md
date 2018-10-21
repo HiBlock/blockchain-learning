@@ -13,6 +13,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181021
+- 笔名辉哥 [【分析】最流行的3款DAPP浏览器和原理](https://www.jianshu.com/p/39e666ee2f2b)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（3）](https://www.jianshu.com/p/5fe1da76340f)
+
 ## 20181014
 - 笔名辉哥 [第二十七课 如何从BANCOR交易所兑换ENJIN通证](https://www.jianshu.com/p/617103393dc6)
 - 笔名辉哥 [第二十六课 如何从零开始搭建一个Truffle框架的DAPP应用](https://www.jianshu.com/p/ecaa4dc22bef)
