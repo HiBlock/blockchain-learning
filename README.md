@@ -13,6 +13,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181028
+- 笔名辉哥 [IBO的金融原理和应用方向分析](https://www.jianshu.com/p/17c2151ff056)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（4）](https://www.jianshu.com/p/d2e43f01c66d)
+
 ## 20181021
 - 笔名辉哥 [【分析】最流行的3款DAPP浏览器和原理](https://www.jianshu.com/p/39e666ee2f2b)
 - AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（3）](https://www.jianshu.com/p/5fe1da76340f)
