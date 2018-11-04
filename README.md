@@ -13,6 +13,14 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181111
+- 笔名辉哥 [第二十九课 如何实现MetaMask签名授权后DAPP一键登录功能？](https://www.jianshu.com/p/8a0bd9bd487c)
+- AmyWu [EOS和Ethereum的区别（中）](https://www.jianshu.com/p/d84a37b70497)
+
+## 20181104
+- 笔名辉哥 [第二十八课 区块链应用DAPP如何探测MetaMask的账号和登录状态？](https://www.jianshu.com/p/7d02202fa998)
+- AmyWu [EOS和Ethereum的区别（上）](https://www.jianshu.com/p/39b0bec71c2f)
+
 ## 20181028
 - 笔名辉哥 [IBO的金融原理和应用方向分析](https://www.jianshu.com/p/17c2151ff056)
 - AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（4）](https://www.jianshu.com/p/d2e43f01c66d)
