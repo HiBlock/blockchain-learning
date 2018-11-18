@@ -13,6 +13,10 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181118
+- 笔名辉哥 [【区块链技术工坊22期实录】王登辉：BANCOR算法详解及代码实现](https://www.jianshu.com/p/01877d787253)
+- AmyWu [BCH简史](https://www.jianshu.com/p/0d5078c2b6f5)
+
 ## 20181111
 - 笔名辉哥 [第二十九课 如何实现MetaMask签名授权后DAPP一键登录功能？](https://www.jianshu.com/p/8a0bd9bd487c)
 - AmyWu [EOS和Ethereum的区别（中）](https://www.jianshu.com/p/d84a37b70497)
