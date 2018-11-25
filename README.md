@@ -13,6 +13,11 @@
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181125
+- 笔名辉哥 [【区块链技术工坊23期实录】郝振亚：工业互联网领域边缘计算与区块链实践](https://www.jianshu.com/p/1cb25f890f9b)
+- AmyWu [Hyperledger Fabric构架简述之一 *再发布](https://www.jianshu.com/p/d0334265e33e)
+
+
 ## 20181118
 - 笔名辉哥 [【区块链技术工坊22期实录】王登辉：BANCOR算法详解及代码实现](https://www.jianshu.com/p/01877d787253)
 - AmyWu [BCH简史](https://www.jianshu.com/p/0d5078c2b6f5)
