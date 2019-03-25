@@ -3,15 +3,200 @@
 ## 目标
 目标：以输出的方式来加速学习  
 
+## 加入我们
+- 抱团学习，一起学习共同输出，相互鼓励与扶持。
+- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
+- 联系方式：bob@hiblock.net  、 微信：hiblocknet  
+
 ## 输出形式
 输出形式多样：  
 - 文章，如学习经验分享、心得、翻译等（不小于1000字）
 - 教程、课件（PPT）、视频、其他技术布道的输出
 
+## 20181125
+- 笔名辉哥 [【区块链技术工坊23期实录】郝振亚：工业互联网领域边缘计算与区块链实践](https://www.jianshu.com/p/1cb25f890f9b)
+- AmyWu [Hyperledger Fabric构架简述之一 *再发布](https://www.jianshu.com/p/d0334265e33e)
+
+
+## 20181118
+- 笔名辉哥 [【区块链技术工坊22期实录】王登辉：BANCOR算法详解及代码实现](https://www.jianshu.com/p/01877d787253)
+- AmyWu [BCH简史](https://www.jianshu.com/p/0d5078c2b6f5)
+
+## 20181111
+- 笔名辉哥 [第二十九课 如何实现MetaMask签名授权后DAPP一键登录功能？](https://www.jianshu.com/p/8a0bd9bd487c)
+- AmyWu [EOS和Ethereum的区别（中）](https://www.jianshu.com/p/d84a37b70497)
+
+## 20181104
+- 笔名辉哥 [第二十八课 区块链应用DAPP如何探测MetaMask的账号和登录状态？](https://www.jianshu.com/p/7d02202fa998)
+- AmyWu [EOS和Ethereum的区别（上）](https://www.jianshu.com/p/39b0bec71c2f)
+
+## 20181028
+- 笔名辉哥 [IBO的金融原理和应用方向分析](https://www.jianshu.com/p/17c2151ff056)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（4）](https://www.jianshu.com/p/d2e43f01c66d)
+
+## 20181021
+- 笔名辉哥 [【分析】最流行的3款DAPP浏览器和原理](https://www.jianshu.com/p/39e666ee2f2b)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（3）](https://www.jianshu.com/p/5fe1da76340f)
+
+## 20181014
+- 笔名辉哥 [第二十七课 如何从BANCOR交易所兑换ENJIN通证](https://www.jianshu.com/p/617103393dc6)
+- 笔名辉哥 [第二十六课 如何从零开始搭建一个Truffle框架的DAPP应用](https://www.jianshu.com/p/ecaa4dc22bef)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（2）](https://www.jianshu.com/p/a6706b5bf7ff)
+
+## 20181007
+- OliviaZhang [Cryptozombie part 1](https://www.jianshu.com/p/4a66db75f3b0)
+- 笔名辉哥 [第二十五课 如何开发自己的BANCOR去中心化交易平台？](https://www.jianshu.com/p/9fc78f8f5773)
+- 笔名辉哥 [【ERC1400标准】支持证券增发，交易，相关法律文件存储的证券类同质化通证](https://www.jianshu.com/p/1e300a73eeef)
+- 笔名辉哥 [肖风：未来三到五年内，一个去中心化的分布式AI平台或将出现](https://www.jianshu.com/p/a6ce20b61400)
+- AmyWu [3分钟漫谈以太坊The DAO事件，浅入浅出区块链（1）](https://www.jianshu.com/p/8a396d2a92c1)
+
+## 20180930
+- OliviaZhang [Back to Basic On Smart Contract](https://www.jianshu.com/p/0ac8132d3312)
+- 笔名辉哥 [【区块链实践】区块链+数字版权：“权利”的游戏](https://www.jianshu.com/p/411fcc5623fa)
+- 笔名辉哥 [叶开：内容创作、知识版权、艺术品的Token内容模式](https://www.jianshu.com/p/90f35357e9e0)
+- 笔名辉哥 [Fomo玩法加持的PixelMaster为什么火了?](https://www.jianshu.com/p/4aaeea70b4ce)
+- 笔名辉哥 [【分析】比特大陆招股说明书解读[附pdf下载]](https://www.jianshu.com/p/c35847068075)
+- 笔名辉哥 [【深度知识】以太坊第2层扩容方案：状态通道（State Channels）、Plasma 和 Truebit](https://www.jianshu.com/p/9b63bd712be8)
+- 笔名辉哥 [【区块链实践】杭州互联网法院司法区块链解决方案](https://www.jianshu.com/p/ee1e3290338f)
+- 笔名辉哥 [这30个以太坊开发示例，让你成为80万都挖不走的区块链人才！](https://www.jianshu.com/p/f5d557c62a66)
+- AmyWu [通过小游戏学习Ethereum DApps编程（8）](https://www.jianshu.com/p/0fae5ff82ae4)
+- AmyWu [精通以太坊 摘录+笔记（1）](https://www.jianshu.com/p/8777dc7ac064)
+- AmyWu [精通比特币 摘录+笔记（1）](https://www.jianshu.com/p/c47013e62fff)
+
+
+## 20180923
+- OliviaZhang [How to build your ERC20 token and launch an ICO](https://www.jianshu.com/p/5433ef1aeb34)
+- 笔名辉哥 [第二十四课 基于以太坊的交易所BANCOR算法实现-转换算法框架](https://www.jianshu.com/p/875ba83002dc)
+- 笔名辉哥 [【ERC1155实践】区块链游戏的平行宇宙和为此而生的Enjin钱包](https://www.jianshu.com/p/d558acbc8f65)
+- 笔名辉哥 [【易错概念】Solidity语法的重载，继承的定义](https://www.jianshu.com/p/231ba1048ef5)
+- 笔名辉哥 [【易错概念】Solidity语法的合约/抽象合约/接口/库的定义](https://www.jianshu.com/p/aa18346369cd)
+- 笔名辉哥 [【易错概念】Solidity语法constant/view/pure关键字定义](https://www.jianshu.com/p/5f1bc0d39d79)
+- AmyWu [通过小游戏学习Ethereum DApps编程（7）](https://www.jianshu.com/p/e0912339e842)
+
+## 20180916
+- OliviaZhang [<new version> TruffleDapp_Metacoin](https://www.jianshu.com/p/6af41265a37b)
+- 笔名辉哥 [【白皮书】Bancor协议：通过智能合约为加密货币提供持续流动性(附PDF下载)](https://www.jianshu.com/p/cbfb9abf8e07)
+- 笔名辉哥 [【易错概念】以实例形式深入浅出讲透BANCOR算法](https://www.jianshu.com/p/fe48ed1f38cd)
+- AmyWu [通过小游戏学习Ethereum DApps编程（6）](https://www.jianshu.com/p/3ef0914daba9)
+ 
+
+## 20180908
+- 笔名辉哥 [第二十三课 如何部署TRUFFLE智能合约到以太坊主网(以宠物商店为例)](https://www.jianshu.com/p/d02381201033)
+- AmyWu [通过小游戏学习Ethereum DApps编程（5）](https://www.jianshu.com/p/e5ed2d26587d)
+
+## 20180901
+- AmyWu [通过小游戏学习Ethereum DApps编程（4）](https://www.jianshu.com/p/ed9857d616f5)
+
+## 20180825
+- AmyWu [通过小游戏学习Ethereum DApps编程（3）](https://www.jianshu.com/p/c9300c8f285a)
+
+## 20180818
+- AmyWu [通过小游戏学习Ethereum DApps编程（2）](https://www.jianshu.com/p/3eaee42a5f63)
+- 冯宇 [Hyperledger Explorer简介](https://www.jianshu.com/p/1709d6f50f5a)
+
+## 20180811
+- 王文刚 [简述智能合约--基于交付的项目](https://www.jianshu.com/p/1d099288a512)
+- AmyWu [通过小游戏学习Ethereum DApps编程（1）](https://www.jianshu.com/p/05e6ca067838)
+- 冯宇 [Hyperledger Cello简介](https://www.jianshu.com/p/afdf62088fe1)
+
+## 20180804
+- AmyWu [搭建你的第一个以太坊智能合约 （1）](https://www.jianshu.com/p/f96a518c46e8)
+- 胡键 [区块链周周记：共识算法](https://www.jianshu.com/p/9ce900fb6f91)
+- 王文刚 [区块链白皮书分享.ppt](https://github.com/xifarm/blockchain-learning/blob/develop/20180803%20%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%88%86%E4%BA%AB.ppt)
+- 冯宇 [ERC20代币合约开发相关函数和事件](https://www.jianshu.com/p/a3a197ce9268)
+- BoB [Upgradable smart contracts](./upgradable-smart-contract-step-by-step.md)
+
+## 20180728
+- AmyWu [Hyperledger Fabric的一次交易的旅程](https://www.jianshu.com/p/a5dc83988dbc)
+- 胡键 [OpenZeppelin周记：打开地图](https://www.jianshu.com/p/3d09bbafd8f2)
+- 冯宇 [理解ERC20代币合约](https://www.jianshu.com/p/c6c0256124fe)
+- 王文刚 [众说区块链：区块链应用场景之Token](https://mp.weixin.qq.com/s?__biz=MzA5NDAxNzIzNg==&mid=2450005496&idx=1&sn=5a9251763e9a53d21f0796b749741dd8&chksm=87a9be43b0de37555b65487e587bde9f8a8052ad4199cfaed697c528728b2c605be0c93f4639&scene=38#wechat_redirect)
+
+## 20180721
+- AmyWu [如何使用Docker快速启动EOSIO环境](https://www.jianshu.com/p/7ea632fe1499)
+- 王文刚 [智能合约内容分享.ppt](https://github.com/xifarm/blockchain-learning/blob/HiBlock-develop/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB.pptx)
+- 冯宇 [从开发者的角度快速解读以太坊白皮书](https://www.jianshu.com/p/41ae276ae65e)
+- BoB [如何发布和使用ERC875代币](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-nfts-cn.md)
+- 冯学雷 [钱包](https://www.jianshu.com/p/bf5129b202be)
+
+## 20180714
+- 冯宇 [搭建以太坊测试链的简易教程](https://www.jianshu.com/p/904aaae80320)
+- 王文刚 [2018-7-10 分享PPT 以太坊常用术语-王文刚](https://github.com/xifarm/blockchain-learning/blob/develop/2018-7-10%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%B8%E7%94%A8%E6%9C%AF%E8%AF%AD-%E7%8E%8B%E6%96%87%E5%88%9A.pdf)
+- 阿飞 [区块链-以太坊学习笔记（九）](https://blog.csdn.net/lxfgzm/article/details/81074144)
+- 胡键 [面向老程序员的Solidity摘要](https://www.jianshu.com/p/ec5ad71e28aa)
+- 冯学雷 [股票交易和数字货币交易对比](https://www.jianshu.com/p/312c15e11938)
+- AmyWu [关于dApp的问与答](https://www.jianshu.com/p/25409b86da70)
+
+## 20180707
+- AmyWu [Hyperledger Fabric实践（3) 部署](https://www.jianshu.com/p/7181bc275316)
+- 冯宇 [使用Jenkins对以太坊Dapp应用持续集成](https://www.jianshu.com/p/1dfcca96bb65)
+- 胡键 [以太坊发币（ERC20）姿势解读](https://www.jianshu.com/p/d78353772029)
+- BoB [以太坊的学习笔记](https://github.com/etherchina/ethereum)
+- 王文刚 [常用MAC技巧---搭建以太坊私联过程经验](https://www.jianshu.com/p/0af88528c114)
+- 冯学雷 [快速搭建以太坊私链](https://www.jianshu.com/p/d2d21ff15c89)
+- 阿飞 [区块链-以太坊学习笔记（八）](https://blog.csdn.net/lxfgzm/article/details/80980392)
+- 笔名辉哥 [第5课 EOS环境搭建入门（私链节点-钱包-密钥-账号）](https://www.jianshu.com/p/533f849489b1)
+
+## 20180630
+- BoB [关于Learning Blockchain Together](./learning-blockchain-together.md)
+- 笔名辉哥 [第4课 如何在UBUNTU虚拟机上编译EOS完成环境搭建？](https://www.jianshu.com/p/55cd194eff7a)
+- AmyWu [Hyperledger Fabric实践（2) 部署Hyperledger Composer理论](https://www.jianshu.com/p/4f3c5dbc5f67)
+- 胡键 [以太坊开发极简入门](https://www.jianshu.com/p/bec173e6cf73)
+- 冯宇[区块链跨链交易简介](https://www.jianshu.com/p/1540de9f370e)
+- 阿飞 [区块链-以太坊学习笔记（七）](https://blog.csdn.net/lxfgzm/article/details/80879497)
+- 王文刚 [简单谈谈区块链的事情](https://www.jianshu.com/p/c3120d546672)
+- 冯学雷 [搭建以太坊客户端](https://www.jianshu.com/p/bf23baf3e358)
+
+## 20180623
+- BoB [Agile and Blockchain](./agile-and-blockchain.md)
+- AmyWu [Hyperledger Fabric实践（1） 组建最简网络](https://www.jianshu.com/p/1b83cb9d9aa9)
+- 阿飞 [区块链-以太坊学习笔记（六）](https://blog.csdn.net/lxfgzm/article/details/80796459)
+- 胡键 HiBlock西安23号活动图文：[区块链周周记：兵器谱](https://www.jianshu.com/p/a10052a5bbd4)
+- 冯宇：[Hyperledger学习小结](https://www.jianshu.com/p/8294e7f441d1)
+- 笔名辉哥：[第十五课 手把手教你以太坊ENS域名注册，抢做一个3000万的发财梦！](https://www.jianshu.com/p/d4b951ff21b1)
+
+## 20180616
+- AmyWu [Hyperledger Fabric构架简述之二 节点](https://www.jianshu.com/p/8097a7dde804)
+- 笔名辉哥 [第十二课 SOLIDITY语法难点解析及故障排查](https://www.jianshu.com/p/275ed3d7aeb7)
+- 冯宇 [Hyperledger Composer开发流程](https://www.jianshu.com/p/43000b5ebd3d)
+- 阿飞 [区块链-以太坊学习笔记（五）](https://blog.csdn.net/lxfgzm/article/details/80796382)
+- 胡键 [区块链周周记：Token](https://www.jianshu.com/p/1a1c449f848c)
+- BoB [ERC20 中文版](https://github.com/bobjiang/EIPs/blob/master/EIPS-CN/eip-20.md)
+
+## 20180609
+- BoB [How to issue ERC875 token](https://github.com/HiBlock/non-fungible-token/blob/master/how-to-issue-erc875-token.md)
+- AmyWu [Hyperledger Fabric构架简述之一](https://www.jianshu.com/p/d0334265e33e)
+- 阿飞 [区块链-以太坊学习笔记（四）](https://blog.csdn.net/lxfgzm/article/details/80646578)
+- 冯宇 [Hyperledger Composer概念介绍](https://www.jianshu.com/p/ebb5f25bd3f7)
+- 笔名辉哥[第十四课 以太坊开发从入门到精通学习导航](https://www.jianshu.com/p/6851fb958220)
+- 胡键 [区块链周周记：一位初学者的观点](https://www.jianshu.com/p/5ffe26dfe369)
+
+## 20180602
+- 笔名辉哥 - [第十三课 如何在DAPP应用实现自带钱包转账功能](https://www.jianshu.com/p/139a71c0c497)
+- 阿东 [怎样拥有硬件钱包？币博士手把手教你！](https://mp.weixin.qq.com/s/PFJDFqq4xQnhnhriORoisw)
+- AmyWu [Hyperledger的Composer和Fabric到底是什么关系？](https://www.jianshu.com/p/15cc600b340f)
+- 冯宇 [Linux环境下安装和使用Hyperledger Composer](https://www.jianshu.com/p/f20e3046c2a1)
+- 胡键 [Hyperledger Fabric周周记：权限](https://www.jianshu.com/p/c502db96db15)
+- 阿飞 [区块链-以太坊学习笔记（三）](https://blog.csdn.net/lxfgzm/article/details/80575346)
+- BoB [以太坊入门ppt](https://github.com/HiBlock/blockchain-learning/blob/develop/blockchain2.0-ethereum-introduction.pptx)
+
+## 20180527
+- 胡键 [HyperLedger Fabric快速入门视频](https://m.qlchat.com/topic/details?topicId=2000001352286793)
+- 冯宇 [Hyperledger Fabric网络手工运行](https://www.jianshu.com/p/9b6265ee6f4a)
+- 笔名辉哥 - [第十一课 从宠物商店案例看DAPP架构和WEB3.JS交互接口](https://www.jianshu.com/p/47174718960b)
+- BoB [如何筹办区块链的黑客马拉松](./how-to-hold-blockathon.pdf)  
+- 阿飞 [区块链-以太坊学习笔记（二）](https://blog.csdn.net/lxfgzm/article/details/80474443)
+- 毛明旺 [风格指南（style guide)说明----solidity 语言中文文档](https://mp.weixin.qq.com/s/dL9Q7KGA2QramQG05NSYRQ)
+- 毛明旺 [合约（Contracts）-- solidity语言中文文档](https://mp.weixin.qq.com/s/M-4fILUZ3AKcDVbsWiTcmw)
+
 ## 20180520
+- 阿东 - [区块链走向何方，或许从美国证劵史可以得到答案](https://github.com/cdtakumi/HiBlock-learning/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9%EF%BC%8C%E6%88%96%E8%AE%B8%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%8A%B5%E5%8F%B2%E5%8F%AF%E4%BB%A5%E5%BE%97%E5%88%B0%E7%AD%94%E6%A1%88)
 - 笔名辉哥 -[第十课 Solidity语言编辑器REMIX指导大全](https://www.jianshu.com/p/2110ed61d2cc)
 - BoB [Smart contract traveller guide](./smart-contract-traveller-guides.md)
-
+- 冯宇 [Hyperledger Fabric模型和工具介绍](https://www.jianshu.com/p/dbca08046432)
+- 倔强的小红军 [CryptoZombies游戏学习Solidity笔记](./CryptoZombies游戏学习Solidity笔记.md)
+- 胡键 [Hyperledger Fabric周周记：Composer](https://www.jianshu.com/p/9ff2cca70981)
+- 阿飞 [区块链-以太坊学习笔记（一）](https://blog.csdn.net/lxfgzm/article/details/80399755)
 ## 20180513
 - BoB - 以太坊实战之环境准备：[Youtube观看](https://www.youtube.com/playlist?list=PLnP6dU8KobC-QzHcbHFWIBmHwoxPqKq9p) | [CSDN观看](https://edu.csdn.net/course/detail/8078)
 - 胡键 - [Hyperledger Fabric周周记：起源](https://www.jianshu.com/p/267ac1f2d67d)
@@ -26,7 +211,8 @@
 每周日进行整理，未完成输出，第一次警告，第二次直接清退  
 [输出进度](https://docs.google.com/spreadsheets/d/1192TcjGNVEhPl470y5y2Z3aZ9So0Imzucxbkm5Nxvn0/edit?usp=sharing)  
 
-## 社区需要你  
-- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net  
-- 微信：hiblocknet
+## 有关HiBlock区块链社区
+
+- [HiBlock github首页](https://github.com/HiBlock) 
+
+HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打造一个专注于区块链的开发者社区，我们不仅在开发者中宣传推广区块链，还会帮助开发者真正掌握区块链技术和应用。我们有线上活动（如一起译文档、一起学以太坊、一起学EOS等），有培训课程（提供专业的区块链技术培训 http://hiblock.net/topics/node16 ）、也有线下沙龙聚会（全国各城进行线下交流），还有blockathon（链接全球区块链开发者）。详情参考：https://github.com/HiBlock/hiblock/tree/master/meetup 
